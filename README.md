@@ -25,3 +25,5 @@ Current public repositories :
 bibliotecury : Side project to have an online library view of the books I read on my kindle (https://daniel-cury.github.io/bibliotecury/)
 
 letreco : University project (1st year - pre genAI era), doing a pygame version of the game wordle 
+
+daniel-cury.github.io : Trnasforming my CV into a website, it feels professional to do so
