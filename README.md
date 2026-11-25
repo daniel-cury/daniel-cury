@@ -27,3 +27,6 @@ bibliotecury : Side project to have an online library view of the books I read o
 letreco : University project (1st year - pre genAI era), doing a pygame version of the game wordle 
 
 daniel-cury.github.io : Trnasforming my CV into a website, it feels professional to do so
+
+expenshare : Second year university project on tkinter python. App that solves the issue in dividing expenses among groups. Variant of the app tricount
+
