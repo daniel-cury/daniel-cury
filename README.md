@@ -22,11 +22,12 @@ I had a github account with my university e-mail for many years, now that I grad
 
 Current public repositories : 
 
-bibliotecury : Side project to have an online library view of the books I read on my kindle (https://daniel-cury.github.io/bibliotecury/)
+bibliotecury: Side project to have an online library view of the books I read on my kindle (https://daniel-cury.github.io/bibliotecury/)
 
-letreco : University project (1st year - pre genAI era), doing a pygame version of the game wordle 
+letreco: University project (1st year - pre genAI era), doing a pygame version of the game wordle 
 
-daniel-cury.github.io : Trnasforming my CV into a website, it feels professional to do so
+daniel-cury.github.io: Trnasforming my CV into a website, it feels professional to do so
 
-expenshare : Second year university project on tkinter python. App that solves the issue in dividing expenses among groups. Variant of the app tricount
+expenshare: Second year university project on tkinter python. App that solves the issue in dividing expenses among groups. Variant of the app tricount
 
+SIR: Fourth year university project to measure the energetic consumption and efficiency on the RF module of different phones, in different rechnologies (3G/LTE/5G) and in different applications. 
