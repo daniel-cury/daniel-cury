@@ -34,3 +34,5 @@ SIR: Fourth year university project to measure the energetic consumption and eff
 facial-expression-recognition: Fourth year university project on recognizing facial expressions using a neural network model with tensorflow and a public dataset.
 
 transmission-channel: Fifth year university project of simulating a transmission channel as well as a neural network model to tell the different sets of images apart (tensorflow and MNIST data set).
+
+curyosity: Side project to code my own travel blog.
