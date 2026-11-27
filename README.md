@@ -8,8 +8,7 @@ The repository is private so I don't post my friends pictures or some health dat
 
 I’m currently learning WebDev, building different sites, practicing to do a bit of free lancing as a side hustles (already done my mom's website in exchange for lunch, so it's going great)
 
-
-I had a github account with my university e-mail for many years, now that I graduated, I'm using with my personal one, and  I'm trying to make it a bit better and cleaner visually (I hope some talent acquisition managers or HR people ge to see it), so I'm currently cleaning up some old projects and putting them here also.
+(I hope some talent acquisition managers or HR get to see it)
 
 
 
